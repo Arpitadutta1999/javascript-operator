@@ -1,0 +1,12 @@
+//let tempVar1= 10;
+let tempVar2=20;//
+
+ var a=10;
+ var b=20;
+ c=b; //c=20;//
+ b=a; //b=10;//
+ a=c;
+
+ console.log("the value of a is" + a);
+ console.log("the value of b is" + b);
+ 
