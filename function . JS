@@ -1,0 +1,12 @@
+$(function() {
+var options = {   
+    series: [{
+        type: 'toy',
+        name: 'Teddy',
+        data: []
+        }]
+};    
+    var objData={ "type":'toy','name':'Teddy','data':[]};
+    options.series.push(Teddy);
+});​
+
